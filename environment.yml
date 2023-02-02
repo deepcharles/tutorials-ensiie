@@ -1,0 +1,22 @@
+name: tutorial
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - black
+  - einops
+  - isort
+  - jupyterlab
+  - jupyterlab
+  - jupyterlab_code_formatter
+  - matplotlib
+  - numpy
+  - pandas
+  - pip
+  - python=3.9
+  - pytorch
+  - scikit-learn
+  - scipy
+  - torchvision
+  - pip:
+    - torchaudio
