@@ -9,6 +9,7 @@ dependencies:
   - jupyterlab
   - jupyterlab
   - jupyterlab_code_formatter
+  - loadmydata
   - matplotlib
   - numpy
   - pandas
